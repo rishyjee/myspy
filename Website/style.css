@@ -1,0 +1,269 @@
+body{
+	margin:0px;
+	padding:0px;
+
+}
+
+.bgimage{
+	background-image: url('bg.jpg');
+	background-size: 100% 100%;
+	width:100%;
+	height:100vh;
+}
+
+.Menu{
+	width:100%;
+	height:100px;
+	background-color:rgba(255,0,0,0.5);
+}
+.leftmenu{
+	width:25%;
+	line-height: 50px;
+	float:left;
+}
+
+.leftmenu h2{
+	padding-left: 50px;
+	font-weight: bold;
+	color: white;
+	font-size:22px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.Rightmenu{
+	width:75%;
+	line-height: 60px;
+	float:right;
+
+
+}
+.Rightmenu ul{
+	margin-left:200px;
+}
+
+.Rightmenu ul li{
+	font-family: 'Montserrat', sans-serif;
+	display: inline-block;
+	list-style: none;
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+	margin-left: 20px;
+	
+}
+
+#firstlist{
+	color:orange;
+}
+
+.Rightmenu ul li:hover{
+	color: orange;
+
+}
+
+.Text{
+	width: 100%;
+	margin-top:300px;
+	
+	text-align: center;
+	color: white;
+}
+
+.Text h4{
+	font-size: 20px;
+	
+	margin:80px 0px;
+
+}
+.Text h1{
+	font-size: 60px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	margin:14px 0px;
+}
+
+.Text h3{
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 100px;
+	
+}
+
+
+#button1{
+	background-color:transparent;
+	border:none;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 40px;
+	width:200px;
+	margin:25px 900px;
+	color:white;
+	
+	border: 1px solid white;
+}
+
+#button2{
+	background-color:transparent;
+	border:none;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 40px;
+	width:200px;
+	margin:0px 900px;
+	
+
+	border: 1px solid white;
+	color:white;
+	
+}
+
+.SecondText{
+
+	width: 100%;
+	margin-top:150px;
+	
+	text-align: center;
+	color: black;
+}
+
+.SecondText h4{
+	font-size: 20px;
+	
+	margin:14px 0px;
+
+}
+.SecondText h1{
+	font-size: 60px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	margin:14px 0px;
+	margin-top: 25px;
+}
+
+.SecondText h3{
+	font-size: 30px;
+	font-weight: bold;
+	margin:14px 0px;
+	margin-top: 25px;
+	color:rgba(169,169,169,1);
+}
+
+.SecondText h2{
+	font-size: 40px;
+	
+	font-weight: bold;
+	margin:14px 0px;
+	margin-top: 25px;
+	color:orange;
+}
+
+#button3{
+	background-color:transparent;
+	border:none;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 40px;
+	width:500px;
+	margin-top: 25px;
+	border: 1px solid black;
+	display: inline-block;
+	color:rgba(169,169,169,1);
+	
+}
+#button4{
+	background-color:transparent;
+	border:none;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 40px;
+	width:500px;
+	margin-top: 25px;
+	border: 1px solid black;
+	color:rgba(169,169,169,1);
+	
+}
+#button5{
+	background-color:transparent;
+	border:none;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 40px;
+	width:500px;
+	margin-top: 25px;
+	border: 1px solid black;
+	color:rgba(169,169,169,1);
+	
+}
+#button6{
+	background-color:transparent;
+	border:none;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 40px;
+	width:500px;
+	margin-top: 25px;
+	border: 1px solid black;
+	color:rgba(169,169,169,1);
+	
+}
+#button7{
+	background-color:transparent;
+	border:none;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 40px;
+	width:500px;
+	margin-top: 25px;
+	border: 1px solid black;
+	color:rgba(169,169,169,1);
+	
+}
+#button8{
+	background-color:transparent;
+	border:none;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 40px;
+	width:500px;
+	margin-top: 25px;
+	border: 1px solid black;
+	color:rgba(169,169,169,1);
+}
+
+#button9{
+	background-color:transparent;
+	border:none;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 40px;
+	width:500px;
+	margin-top: 25px;
+	color:rgba(169,169,169,1);
+	border: 1px solid black;
+	
+}
+#button10{
+	background-color:transparent;
+	border:none;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 40px;
+	width:500px;
+	margin-top: 25px;
+	border: 1px solid black;
+	color:rgba(169,169,169,1);
+	
+}
+
+
